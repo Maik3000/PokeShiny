@@ -1,11 +1,10 @@
 # Pokémon Shiny Dashboard
+<div style="text-align: center;">
+  <img src="https://cdn.prod.website-files.com/622733c59bf20d8a074764f6/627a7569f1389244d2938298_pokemon-banner.png" alt="Pokémon Shiny" width="600">
+</div>
 
 ## Descripción del Proyecto
 El **Pokémon Shiny Dashboard** es una aplicación interactiva desarrollada en R utilizando el paquete **shiny**. Esta aplicación permite a los usuarios explorar, analizar y comparar estadísticas de Pokémon de manera visual e intuitiva. Con una interfaz amigable y múltiples funcionalidades, los usuarios pueden realizar análisis avanzados, generar gráficos personalizados, comparar Pokémon y explorar datos interactivos.
-
-<div style="text-align: center;">
-  <img src="https://cdn.prod.website-files.com/622733c59bf20d8a074764f6/627a7569f1389244d2938298_pokemon-banner.png" alt="Pokémon Shiny" width="500">
-</div>
 
 ## Características Principales
 
