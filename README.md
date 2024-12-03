@@ -31,7 +31,7 @@ El **Pokémon Shiny Dashboard** es una aplicación interactiva desarrollada en R
 - Gráfico dinámico basado en las variables seleccionadas.
 - Descarga de los datos filtrados en formato CSV.
 
-  <img src="Poke%20Shiny/poke_api/www/demo.png" alt="Pokémon Shiny" width="500">
+  <img src="Poke%20Shiny/poke_api/www/demo.png" alt="Pokémon Shiny" width="900">
 
 ## Requisitos del Sistema
 
