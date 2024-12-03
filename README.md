@@ -3,7 +3,9 @@
 ## Descripción del Proyecto
 El **Pokémon Shiny Dashboard** es una aplicación interactiva desarrollada en R utilizando el paquete **shiny**. Esta aplicación permite a los usuarios explorar, analizar y comparar estadísticas de Pokémon de manera visual e intuitiva. Con una interfaz amigable y múltiples funcionalidades, los usuarios pueden realizar análisis avanzados, generar gráficos personalizados, comparar Pokémon y explorar datos interactivos.
 
-<img src="https://cdn.prod.website-files.com/622733c59bf20d8a074764f6/627a7569f1389244d2938298_pokemon-banner.png" alt="Pokémon Shiny" width="500">
+<div style="text-align: center;">
+  <img src="https://cdn.prod.website-files.com/622733c59bf20d8a074764f6/627a7569f1389244d2938298_pokemon-banner.png" alt="Pokémon Shiny" width="500">
+</div>
 
 ## Características Principales
 
@@ -44,7 +46,7 @@ Asegúrate de tener instalados los siguientes paquetes antes de ejecutar la apli
 - `plotly`
 - `DT`
 - `shinycssloaders`
-- `dplyr` (para manipulación de datos)
+- `dplyr` 
 
 Puedes instalarlos ejecutando el siguiente comando en R:
 
@@ -72,8 +74,8 @@ poke-shiny/
 1. Clona el repositorio o descarga los archivos del proyecto:
 
     ```bash
-    git clone https://github.com/tu-usuario/poke-shiny.git
-    cd poke-shiny
+    git clone https://github.com/Maik3000/PokeShiny.git
+    cd Poke Shiny
     ```
 
 2. Asegúrate de que el archivo `pokemon_data.csv` esté en la carpeta `datos/`:
