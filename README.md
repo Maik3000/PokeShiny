@@ -96,27 +96,6 @@ poke-shiny/
 
    La aplicación se abrirá automáticamente en tu navegador predeterminado.
 
-## Contribuciones
 
-Si deseas contribuir a este proyecto, sigue estos pasos:
 
-1. Haz un fork del repositorio.
-2. Crea una nueva rama para tus cambios:
-
-    ```bash
-    git checkout -b feature/nueva-funcionalidad
-    ```
-
-3. Realiza tus cambios y haz un commit:
-
-    ```bash
-    git commit -m "Agregada nueva funcionalidad"
-    ```
-
-4. Envía un pull request para revisión.
-
-## Licencia
-
-Este proyecto está bajo la licencia MIT. Puedes usarlo, modificarlo y distribuirlo libremente, siempre y cuando se incluya la atribución correspondiente.
-```
 
